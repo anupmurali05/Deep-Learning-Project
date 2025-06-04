@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: CNNClassifier
+Version: 0.0.1
+Summary: A small package for CNN Classifier
+Home-page: https://github.com/anupmurali05/Deep-Learning-Project
+Author: anupmurali05
+Project-URL: Bug Tracker, https://github.com/anupmurali05/Deep-Learning-Project/issues
+Dynamic: author
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Deep-Learning-Project
